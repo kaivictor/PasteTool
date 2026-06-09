@@ -1,2 +1,5 @@
 temp
 __pycache__
+build
+dist
+
