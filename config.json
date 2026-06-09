@@ -1,0 +1,13 @@
+{
+  "window_width": 400,
+  "window_height": 60,
+  "font_name": "Microsoft YaHei",
+  "tip_font_size": 12,
+  "clipboard_font_size": 14,
+  "paste_tip_font_size": 12,
+  "paste_content_font_size": 14,
+  "window_opacity": 230,
+  "window_corner_radius": 12,
+  "line_spacing": 6,
+  "show_tip_window": true
+}
